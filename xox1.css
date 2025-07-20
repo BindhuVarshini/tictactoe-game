@@ -66,3 +66,10 @@ color: white;
     border-radius: 1rex;
 
 }
+@media only screen and(max-width:600px) {
+    body
+    {
+        background-color: blue;
+    }
+    
+}
